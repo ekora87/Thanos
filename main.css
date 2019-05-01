@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 80%;
+    height: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url('https://img4.goodfon.com/wallpaper/nbig/c/aa/infinity-war-infinity-stones-infinity-gems-marvel.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+
+
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.small-article {
+    width: 300px;
+    margin: 10px;
+}
+#pic1 {
+    background-image: url('https://img.timesnownews.com/story/1552499750-Thor_Captain_Marvel_Avengers_Endgame.jpg?d=600x450');
+}
+#pic2 {
+    background-image: url('https://boygeniusreport.files.wordpress.com/2019/03/avengers-endgame-infinity-gauntlet.jpg?quality=98&strip=all&w=782');
+}
+
+#pic3 {
+    background-image: url('https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03.jpg');
+}
+.article-pic {
+    
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.small-article, .characters, .movie {
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.characters, .movie {
+    width: 100px;
+    margin: 10px;
+}
+.article-section {
+    display: flex;
+    justify-content: center;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#iron-man {
+    background-image: url('https://shortlist.imgix.net/app/uploads/2018/05/15113346/heres-the-real-reason-that-iron-man-was-chosen-to-be-the-first-marvel-superhero-movie-crop-1547045198-800x800.jpg?w=256&h=256&fit=max&auto=format%2Ccompress');
+
+}
+
+#captain {
+    background-image: url('https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/11695/square_thumb%402x.jpg');
+}
+
+#thor {
+    background-image: url('https://m.media-amazon.com/images/M/MV5BMTQ0MDYzMWItOWM2Ny00YzZlLWJjY2QtZWI4Njg2ZWI2Y2ExXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_SY256_SX256_AL_.jpg');
+}
+
+#widow {
+    background-image: url('https://i.pinimg.com/736x/07/c9/97/07c997b27197912f77c0b4fbf29100d3.jpg');
+}
+
+#panther {
+    background-image: url('https://avatarfiles.alphacoders.com/125/125711.jpg');
+}
+
+#strange {
+    background-image: url('https://avatarfiles.alphacoders.com/110/110328.jpg');
+}
+
+.characters-icon {
+    width: 100%;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#infinity-war {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg');
+}
+
+#ultron {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg');
+}
+
+#avenger1 {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg');
+}
+
+#civil-war {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg');
+}
+
+#ragnarok {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg');
+}
+
+#homecoming {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg');
+}
+
+#Black-Panther {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg');
+}
+
+#IronMan {
+    background-image: url('https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman3_lob_crd_01_10.jpg');
+}
+
+
+
+
+
+
+
